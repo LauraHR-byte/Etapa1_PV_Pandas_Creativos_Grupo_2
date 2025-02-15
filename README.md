@@ -3,8 +3,7 @@ Reconocimiento de nuestro entorno y Armado de equipos con SCV
 
 # Fabian Berna Perea
 
-
-
+![Imagen 1](https://github.com/LauraHR-byte/Etapa1_PV_Pandas_Creativos_Grupo_2/blob/Fabian_Berna/Fabian%20Bena%202025.jpg)
 
 **Rol seleccionado**
 
@@ -23,4 +22,4 @@ El rol que seleccionare para la realizacion de esta actividad es el de **program
 - Cel.3024538226(solo WhatsApp)
 
 **Comida favorita:**
-- 
+- ![Imagen 2](https://github.com/LauraHR-byte/Etapa1_PV_Pandas_Creativos_Grupo_2/blob/Fabian_Berna/pizza-pepperoni.jpg)
