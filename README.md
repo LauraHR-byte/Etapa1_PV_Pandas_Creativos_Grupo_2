@@ -64,7 +64,7 @@ El rol que seleccionare para la realizacion de esta actividad es el de **program
 
 # Stefania Holguin Quiroz
 
-![foto-stefania](<WhatsApp Image 2024-02-10 at 1.45.37 PM.jpg>)
+![foto-stefania](https://github.com/LauraHR-byte/Etapa1_PV_Pandas_Creativos_Grupo_2/blob/stefaniaHolguin/Stefania%20Holguin/WhatsApp%20Image%202024-02-10%20at%201.45.37%20PM.jpg)
 
 # ¿Quién soy?
 
@@ -78,6 +78,6 @@ Mi correo es: sholguinq@unadvirtual.edu.co
 
 Mi comida favorita son las Pastas Gratinadas:
 
-![pastas-gratinadas](mac-and-cheese-en-poele-source-thinkstock-jpg.jpg)
+![pastas-gratinadas](https://github.com/LauraHR-byte/Etapa1_PV_Pandas_Creativos_Grupo_2/blob/main/Stefania%20Holguin/mac-and-cheese-en-poele-source-thinkstock-jpg.jpeg)
 
 ¡Gracias por la atención prestada!
