@@ -38,6 +38,7 @@ Mis datos de contacto: ngomezroj@unadvirtual.edu.co
 *Mi comida favorita:*
 
 ![5-ingredient-turbo-charged-spaghetti-recipe-196959-1](https://github.com/user-attachments/assets/8c9a36c7-4994-419f-973e-4147e5a77fc4)
+
 # Fabian Berna Perea
 
 ![Imagen 1](https://github.com/LauraHR-byte/Etapa1_PV_Pandas_Creativos_Grupo_2/blob/Fabian_Berna/Fabian%20Bena%202025.jpg)
@@ -60,3 +61,23 @@ El rol que seleccionare para la realizacion de esta actividad es el de **program
 
 **Comida favorita:**
 - ![Imagen 2](https://github.com/LauraHR-byte/Etapa1_PV_Pandas_Creativos_Grupo_2/blob/Fabian_Berna/pizza-pepperoni.jpg)
+
+# Stefania Holguin Quiroz
+
+![foto-stefania](<WhatsApp Image 2024-02-10 at 1.45.37 PM.jpg>)
+
+# ¿Quién soy?
+
+Rol: Diseñadora de sistemas
+
+Ubicación: Barbosa, Antioquia
+
+Perfil: Soy tecnóloga en Producción de Multimedia, tengo experiencia en diferentes roles centrados en la experiencia de usuario, el desarrollo FrontEnd y el marketing digital. Soy una persona curiosa y me encanta el nuevo aprendizaje.
+
+Mi correo es: sholguinq@unadvirtual.edu.co
+
+Mi comida favorita son las Pastas Gratinadas:
+
+![pastas-gratinadas](mac-and-cheese-en-poele-source-thinkstock-jpg.jpg)
+
+¡Gracias por la atención prestada!
